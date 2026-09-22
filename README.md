@@ -6,7 +6,7 @@
 
 Ready-to-import **Logi Options+** profiles (`.lp5`) for the [MX Creative Keypad](https://www.logitech.com/), with custom monochrome key icons.
 
-These were built for macOS. Import them in **Logi Options+** (2.07+ recommended). No personal account data is embedded — only app bundle IDs, shortcut labels, key mappings, and SVG icons.
+These were built for macOS. Import them in **Logi Options+** (2.07+ recommended).
 
 ## Quick start
 
@@ -62,7 +62,6 @@ Source SVGs used for the icons live in [`icons/`](icons/).
 - **Ctrl / uncommon chords** and some MagicaVoxel / Siri AI / Music bindings may need a quick remap after import if your locale or app version differs.
 - MagicaVoxel attaches when Options+ can see the app (often under `~/Applications/MagicaVoxel/...`).
 - Profile preview images inside the package may look stale until Options+ regenerates them; the live key icons come from the `.ict` files.
-- These profiles contain **no** name, email, home path, or account data — safe to fork and share.
 
 ## License
 
