@@ -1,5 +1,9 @@
 # Logi MX Creative Keypad — Application Profiles
 
+![Grok Bot profile on MX Creative Keypad in Logi Options+](docs/grok-bot-profile.png)
+
+*Example: Grok Bot profile (page 1) after import — custom icons and labels on the keypad keys.*
+
 Ready-to-import **Logi Options+** profiles (`.lp5`) for the [MX Creative Keypad](https://www.logitech.com/), with custom monochrome key icons.
 
 These were built for macOS. Import them in **Logi Options+** (2.07+ recommended). No personal account data is embedded — only app bundle IDs, shortcut labels, key mappings, and SVG icons.
